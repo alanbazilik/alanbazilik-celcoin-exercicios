@@ -1,0 +1,58 @@
+
+  .App1 {
+    text-align: center;
+  }
+
+  label{
+    display: flex;
+    color: white;
+  }
+  form{
+margin-top: 210px;
+}
+button.formteste{
+    background-color: #4CAF50;
+    color: white;
+    border-radius:23px ;
+    border: 2px solid black; /* Green */
+    position: absolute;
+    top: 350px;
+    left: -5px;
+    width: 370px;
+    height: 25px;
+}
+input.nome1[type="text"]{
+    width: 300px;
+    height: 25px;
+    position: absolute;
+    top: 185px;
+    left: 2px; 
+}
+label.label1{
+    font-size: 20px;
+    position: absolute;
+    top:150px;
+    color: white;
+}
+textarea{
+    width: 300px;
+    height: 40px;
+}
+select{
+    position: absolute;
+    top: 295px;
+    left: 2px; 
+    width: 150px;
+    height: 40px;
+}
+label.Tentativas{
+    font-size: 20px;
+    position: absolute;
+    top:270px;
+    color: white;
+}
+.App-header1 {
+    background-color: #282c34;
+    min-height: 110vh;
+    color: white;
+  }
